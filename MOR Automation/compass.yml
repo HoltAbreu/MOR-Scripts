@@ -8,12 +8,12 @@ fields:
   tier: 4
   lifecycle: Pre-Release
 links:
-  - name: 'Service Repository'
+  - name: null
     type: REPOSITORY
-    url: 'https://github.com/HoltAbreu/MOR-Scripts/'
+    url: https://github.com/HoltAbreu/MOR-Scripts
 relationships: {}
 labels:
-  - 'source:github'
+  - source:github
 customFields:
   - name: App ID
     type: text
