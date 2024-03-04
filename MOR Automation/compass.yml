@@ -1,0 +1,40 @@
+configVersion: 1
+name: MOR-Automation
+id: null
+description: ServiceNOW Scoped Application.
+ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
+typeId: SERVICE
+fields:
+  tier: 4
+  lifecycle: Pre-Release
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/HoltAbreu/MOR-Scripts'
+relationships: {}
+labels:
+  - 'source:github'
+customFields:
+  - name: App ID
+    type: text
+    value: null
+  - name: Environment
+    type: single_select
+    value: null
+  - name: Date of last security review
+    type: text
+    url: '2023-03-09'
+  - name: Requires audit?
+    type: boolean
+    value: false
+  - name: Number of users
+    type: number
+    value: 100
+  - name: Status
+    type: single_select
+    value: 00000000-0000-0000-0000-000000000000
+  - name: Tags
+    type: multi_select
+    value:
+      - 00000000-0000-0000-0000-000000000000
+      - 11111111-0000-0000-0000-000000000000
