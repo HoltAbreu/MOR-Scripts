@@ -8,7 +8,7 @@ fields:
   tier: 4
   lifecycle: Pre-Release
 links:
-  - name: null
+  - name: Service Repository
     type: REPOSITORY
     url: 'https://github.com/HoltAbreu/MOR-Scripts'
 relationships: {}
@@ -24,17 +24,9 @@ customFields:
   - name: Date of last security review
     type: text
     url: '2023-03-09'
-  - name: Requires audit?
+  - name: MOR Reviewed?
     type: boolean
     value: false
   - name: Number of users
     type: number
     value: 100
-  - name: Status
-    type: single_select
-    value: 00000000-0000-0000-0000-000000000000
-  - name: Tags
-    type: multi_select
-    value:
-      - 00000000-0000-0000-0000-000000000000
-      - 11111111-0000-0000-0000-000000000000
