@@ -109,9 +109,9 @@
         },
         "fields_tier": {
             "type": "integer",
-            "default": 4,
+            "default": 5,
             "minimum": 1,
-            "maximum": 4,
+            "maximum": 5,
             "title": "There are several tiers of service, from 1 to 4. The lower the tier, the more critical the service is to the business. The default tier is 4"
         },
         "fields_lifecycle": {
