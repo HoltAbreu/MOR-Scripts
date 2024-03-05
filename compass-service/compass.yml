@@ -1,0 +1,39 @@
+name: Compass-Service
+id: null
+description: Compass Service Example 1
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:teams::team/95961c8f-7f5b-44b0-adf0-4a533b299edd'
+fields:
+  tier: 3
+  lifecycle: Active
+links:
+  - name: Service Repository
+    type: REPOSITORY
+    url: https://github.com/HoltAbreu/MOR-Scripts
+  - name: Jira project
+    type: PROJECT
+    url: https://holtabreu.atlassian.net/jira/software/projects/COM/boards/3
+  - name: How to use the MOR Automation
+    type: DOCUMENT
+    url: https://www.example.com/user-guide/how+to+use+my+service
+  - name: null
+    type: OTHER_LINK
+    url: https://www.example.com/resources
+  - name: Service dashboard
+    type: DASHBOARD
+    url: https://www.example.com/dashboards/service-dashboard
+relationships: {}
+labels:
+  - source:github
+customFields:
+  - name: App ID
+    type: text
+    value: '4321'
+  - name: Environment
+    type: single_select
+    value: null
+    
+    
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
