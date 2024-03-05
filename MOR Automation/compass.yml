@@ -11,7 +11,7 @@ links:
   - name: Service Repository
     type: REPOSITORY
     url: https://github.com/HoltAbreu/MOR-Scripts
-   - name: Jira project
+  - name: Jira project
     type: PROJECT
     url: https://holtabreu.atlassian.net/jira/software/projects/COM/boards/3
   - name: How to use the MOR Automation
