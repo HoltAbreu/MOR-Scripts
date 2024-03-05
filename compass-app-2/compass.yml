@@ -17,7 +17,7 @@ labels:
 customFields:
   - name: App ID
     type: text
-    value: 8910
+    value: '8910'
   - name: Environment
     type: single_select
     value: null
