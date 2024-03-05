@@ -32,8 +32,13 @@ customFields:
     value: '1112'
   - name: Environment
     type: single_select
-    value: null
-    
+    value: '5db712c2-32d3-4b51-aea2-bb6e73e8cb44'
+
+# Custom Fields Definitions
+# Environment
+# Cloud - value: '5db712c2-32d3-4b51-aea2-bb6e73e8cb44'
+# Hybrid - value: 'fd633f9d-4975-4913-bb3e-e02d0415566b'
+# On-Premise - value: 'fc883493-b5ff-4f61-88a0-63ca494be490'
     
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
