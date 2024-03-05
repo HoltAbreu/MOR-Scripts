@@ -1,9 +1,9 @@
-name: Compass-Service-2
-id: 'ari:cloud:compass:06856320-fb62-48eb-b4bd-63acca81eed9:component/be579465-cca8-4351-8b7f-284eeea8a3bc/b1fb887d-022a-477b-87ee-c36241b0fbf7'
-description: Compass Service Example 2
+name: MOR-Scripts
+id: 'ari:cloud:compass:06856320-fb62-48eb-b4bd-63acca81eed9:component/be579465-cca8-4351-8b7f-284eeea8a3bc/fb946558-8365-44ac-8d31-b26489dab395'
+description: MOR Scripts and Tools
 configVersion: 1
 typeId: SERVICE
-ownerId: 'ari:cloud:teams::team/cda45a26-1e6b-4ea4-ba2a-fb26a66a3d78'
+ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
 fields:
   tier: 3
   lifecycle: Active
@@ -29,7 +29,7 @@ labels:
 customFields:
   - name: App ID
     type: text
-    value: '9876'
+    value: '1112'
   - name: Environment
     type: single_select
     value: null
