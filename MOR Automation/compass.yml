@@ -1,5 +1,5 @@
 name: MOR-Automation
-id: null
+id: ''
 description: ServiceNOW Scoped Application
 configVersion: 1
 typeId: SERVICE
