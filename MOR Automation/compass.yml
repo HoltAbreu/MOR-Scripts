@@ -13,16 +13,16 @@ links:
     url: https://github.com/HoltAbreu/MOR-Scripts
    - name: Jira project
     type: PROJECT
-    url: 'https://holtabreu.atlassian.net/jira/software/projects/COM/boards/3'
+    url: https://holtabreu.atlassian.net/jira/software/projects/COM/boards/3
   - name: How to use the MOR Automation
     type: DOCUMENT
-    url: 'https://www.example.com/user-guide/how+to+use+my+service'
+    url: https://www.example.com/user-guide/how+to+use+my+service
   - name: null
     type: OTHER_LINK
-    url: 'https://www.example.com/resources/'
+    url: https://www.example.com/resources
   - name: Service dashboard
     type: DASHBOARD
-    url: 'https://www.example.com/dashboards/service-dashboard'
+    url: https://www.example.com/dashboards/service-dashboard
 relationships: {}
 labels:
   - source:github
