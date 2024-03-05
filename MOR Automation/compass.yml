@@ -10,7 +10,7 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: https://github.com/HoltAbreu/MOR-Scripts
+    url: null
 relationships: {}
 labels:
   - source:github
