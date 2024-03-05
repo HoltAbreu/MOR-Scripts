@@ -17,7 +17,7 @@ labels:
 customFields:
   - name: App ID
     type: text
-    value: null
+    value: 1234
   - name: Environment
     type: single_select
-    value: null
+    value: Cloud
