@@ -6,11 +6,23 @@ typeId: SERVICE
 ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
 fields:
   tier: 4
-  lifecycle: Pre-Release
+  lifecycle: Active
 links:
-  - name: null
+  - name: Service Repository
     type: REPOSITORY
     url: https://github.com/HoltAbreu/MOR-Scripts
+   - name: Jira project
+    type: PROJECT
+    url: 'https://holtabreu.atlassian.net/jira/software/projects/COM/boards/3'
+  - name: How to use the MOR Automation
+    type: DOCUMENT
+    url: 'https://www.example.com/user-guide/how+to+use+my+service'
+  - name: null
+    type: OTHER_LINK
+    url: 'https://www.example.com/resources/'
+  - name: Service dashboard
+    type: DASHBOARD
+    url: 'https://www.example.com/dashboards/service-dashboard'
 relationships: {}
 labels:
   - source:github
