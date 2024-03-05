@@ -1,7 +1,7 @@
 configVersion: 1
 name: MOR-Automation
 id: null
-description: ServiceNOW Scoped Application.
+description: ServiceNOW Scoped Application
 ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
 typeId: SERVICE
 fields:
@@ -10,7 +10,7 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: null
+    url: https://github.com/HoltAbreu/MOR-Scripts
 relationships: {}
 labels:
   - source:github
@@ -23,7 +23,7 @@ customFields:
     value: null
   - name: Date of last security review
     type: text
-    url: '2023-03-09'
+    value: '2023-03-09'
   - name: MOR Reviewed?
     type: boolean
     value: false
