@@ -1,9 +1,9 @@
-configVersion: 1
 name: Compass-App-2
 id: 'ari:cloud:compass:06856320-fb62-48eb-b4bd-63acca81eed9:component/be579465-cca8-4351-8b7f-284eeea8a3bc/76181e8b-90d5-4a2c-9b30-21e8cc476c06'
 description: Compass Demo Application 2
-ownerId: 'ari:cloud:teams::team/cda45a26-1e6b-4ea4-ba2a-fb26a66a3d78'
+configVersion: 1
 typeId: APPLICATION
+ownerId: 'ari:cloud:teams::team/cda45a26-1e6b-4ea4-ba2a-fb26a66a3d78'
 fields:
   tier: 2
   lifecycle: Pre-Release

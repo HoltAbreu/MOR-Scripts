@@ -1,9 +1,9 @@
-configVersion: 1
 name: MOR-Automation
 id: 'ari:cloud:compass:06856320-fb62-48eb-b4bd-63acca81eed9:component/be579465-cca8-4351-8b7f-284eeea8a3bc/f0d169da-cafe-45c9-81b0-10fb69fdd647'
 description: ServiceNOW Scoped Application
-ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
+configVersion: 1
 typeId: SERVICE
+ownerId: 'ari:cloud:teams::team/5d749f40-fd5d-447f-b56f-0561bfc079fb'
 fields:
   tier: 4
   lifecycle: Pre-Release
